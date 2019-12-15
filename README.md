@@ -32,3 +32,9 @@ Exception:
 * plistings.sty, vendor/plistings: MIT License. See [LICENSE](https://github.com/kmuto/review/blob/master/vendor/plistings/LICENSE) file.
 * gentombow.sty, vendor/gentombow: BSD License. See [LICENSE](https://github.com/kmuto/review/blob/master/vendor/gentombow/LICENSE) file.
 * jsbook.cls, vendor/jsclasses: BSD License. See [LICENSE](https://github.com/kmuto/review/blob/master/vendor/jsclasses/LICENSE) file.
+
+## References
+- [kmuto/review](https://github.com/kmuto/review)
+- [vvakame/docker-review](https://github.com/vvakame/docker-review)
+- [vvakame/docker-review/doc/windows-review.md](https://github.com/vvakame/docker-review/blob/master/doc/windows-review.md)
+- [solareenlo/docker-review](https://github.com/solareenlo/docker-review)
