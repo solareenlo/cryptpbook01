@@ -11,8 +11,15 @@
 
 ## Usage
 ```bash
-git pull
+git clone git@github.com:solareenlo/cryptpbook01.git
+cd cryptobook01
+sudo docker pull vvakame/review:4.0
+sudo docker-compose run --rm review rake pdf
 ```
+
+## RE:VIEW の書き方
+- [RE:VIEW フォーマットガイド](https://github.com/kmuto/review/blob/master/doc/format.ja.md)
+- [RE:VIEW の Wiki](https://github.com/kmuto/review/wiki)
 
 ## License
 Main part of Re:VIEW is applied GNU Lesser General Public License (LGPL).
